@@ -22,5 +22,20 @@ The app focuses on providing a clean, user-friendly, and eco-friendly experience
 
 🔹 Splash Screen
 
- ![SplashScreen](SplashScreen.jpg)
+ ![SplashScreen](1.jpg)
 
+- The Splash Screen is the first screen users see when opening the app.
+It displays the ChargeGo logo, tagline “Power Your Journey”, and EV charging illustration to create a strong first impression.
+The clean green theme represents eco-friendly electric mobility and modern technology.
+
+🔹 Onboarding Screen
+
+ ![SplashScreen](2.jpg)
+
+ - The Onboarding Screen introduces the app’s main features:
+
+- Find nearby charging stations
+- Book charging slots in advance
+- Easy and secure charging experience
+
+It helps new users understand the app quickly before getting started.
