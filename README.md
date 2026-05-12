@@ -22,3 +22,5 @@ The app focuses on providing a clean, user-friendly, and eco-friendly experience
 
 🔹 Splash Screen
 
+ ![SplashScreen](SplashScreen.jpg)
+
