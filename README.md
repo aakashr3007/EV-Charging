@@ -76,7 +76,7 @@ This screen helps users quickly discover nearby EV charging stations.
 
 🔹 Maps Screen
 
-![SplashScreen](13.jpg)
+![SplashScreen](13.png)
 
 The Maps Screen displays:
 - Real-time station locations
@@ -88,7 +88,7 @@ Users can easily locate the nearest available charging station.
 
 🔹 Booking Screen
 
-![SplashScreen](6.jpg)
+![SplashScreen](6.png)
 
 This screen allows users to:
 - Select charging date
@@ -100,7 +100,7 @@ It simplifies the charging reservation process.
 
 🔹 Payment Screen
 
-![SplashScreen](7.jpg)
+![SplashScreen](7.png)
 
 The Payment Screen supports multiple payment methods:
 
@@ -119,7 +119,7 @@ This ensures safe and smooth payment transactions.
 
 🔹 Payment Success Screen
 
-![SplashScreen](8.jpg)
+![SplashScreen](8.png)
 
 After successful payment, users see:
 - Booking confirmation message
@@ -134,7 +134,7 @@ Users can navigate to:
 
 🔹 My Bookings
 
-![SplashScreen](9.jpg)
+![SplashScreen](9.png)
 
 The My Booking Screen helps users manage all reservations with different tabs:
 - History
@@ -145,7 +145,7 @@ Users can track booking status, charging type, schedule, and payment amount.
 
 🔹 Settings Screen
 
-![SplashScreen](14.jpg)
+![SplashScreen](14.png)
 
 The Settings Screen provides account management options:
 - Edit Profile
