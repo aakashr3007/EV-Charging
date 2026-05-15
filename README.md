@@ -39,7 +39,7 @@ The Onboarding Screen introduces the app’s main features:
 
 It helps new users understand the app quickly before getting started.
 
-#🔹 Login 
+# 🔹 Login 
 
 ![SplashScreen](3.jpg)
 
@@ -50,7 +50,7 @@ The Login Screen allows existing users to securely access their account using:
 - Facebook login
 It also includes a Forgot Password option for account recovery.
 
-#🔹 Sign Up
+# 🔹 Sign Up
 
 ![SplashScreen](4.jpg)
 
@@ -61,7 +61,7 @@ The Sign Up Screen helps new users create an account by entering:
 - Confirm Password
 Users must accept the Terms & Conditions before registration.
 
-#🔹 Home Screen
+# 🔹 Home Screen
 
 ![SplashScreen](5.jpg)
 
@@ -74,7 +74,7 @@ Features include:
 - Bottom navigation menu
 This screen helps users quickly discover nearby EV charging stations.
 
-#🔹 Maps Screen
+# 🔹 Maps Screen
 
 ![SplashScreen](13.png)
 
@@ -86,7 +86,7 @@ The Maps Screen displays:
 - Search and filter options
 Users can easily locate the nearest available charging station.
 
-#🔹 Booking Screen
+# 🔹 Booking Screen
 
 ![SplashScreen](6.png)
 
@@ -98,7 +98,7 @@ This screen allows users to:
 - View station facilities such as WiFi, Café, Parking, and Restroom
 It simplifies the charging reservation process.
 
-#🔹 Payment Screen
+# 🔹 Payment Screen
 
 ![SplashScreen](7.png)
 
@@ -117,7 +117,7 @@ It also highlights:
 
 This ensures safe and smooth payment transactions.
 
-#🔹 Payment Success Screen
+# 🔹 Payment Success Screen
 
 ![SplashScreen](8.png)
 
@@ -132,7 +132,7 @@ Users can navigate to:
 - My Bookings
 - Home Screen
 
-#🔹 My Bookings
+# 🔹 My Bookings
 
 ![SplashScreen](9.png)
 
@@ -143,7 +143,7 @@ The My Booking Screen helps users manage all reservations with different tabs:
 - Cancelled
 Users can track booking status, charging type, schedule, and payment amount.
 
-#🔹 Settings Screen
+# 🔹 Settings Screen
 
 ![SplashScreen](14.png)
 
