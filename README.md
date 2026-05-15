@@ -41,7 +41,7 @@ It helps new users understand the app quickly before getting started.
 
 🔹 Login 
 
-![SplashScreen](2.jpg)
+![SplashScreen](3.jpg)
 
 The Login Screen allows existing users to securely access their account using:
 - Email and password
@@ -52,7 +52,7 @@ It also includes a Forgot Password option for account recovery.
 
 🔹 Sign Up
 
-![SplashScreen](2.jpg)
+![SplashScreen](4.jpg)
 
 The Sign Up Screen helps new users create an account by entering:
 - Full Name
@@ -63,7 +63,7 @@ Users must accept the Terms & Conditions before registration.
 
 🔹 Home Screen
 
-![SplashScreen](2.jpg)
+![SplashScreen](5.jpg)
 
 The Home Screen is the main dashboard of the app.
 Features include:
@@ -76,7 +76,7 @@ This screen helps users quickly discover nearby EV charging stations.
 
 🔹 Maps Screen
 
-![SplashScreen](2.jpg)
+![SplashScreen](13.jpg)
 
 The Maps Screen displays:
 - Real-time station locations
@@ -88,7 +88,7 @@ Users can easily locate the nearest available charging station.
 
 🔹 Booking Screen
 
-![SplashScreen](2.jpg)
+![SplashScreen](6.jpg)
 
 This screen allows users to:
 - Select charging date
@@ -100,7 +100,7 @@ It simplifies the charging reservation process.
 
 🔹 Payment Screen
 
-![SplashScreen](2.jpg)
+![SplashScreen](7.jpg)
 
 The Payment Screen supports multiple payment methods:
 
@@ -119,7 +119,7 @@ This ensures safe and smooth payment transactions.
 
 🔹 Payment Success Screen
 
-![SplashScreen](2.jpg)
+![SplashScreen](8.jpg)
 
 After successful payment, users see:
 - Booking confirmation message
@@ -134,7 +134,7 @@ Users can navigate to:
 
 🔹 My Bookings
 
-![SplashScreen](2.jpg)
+![SplashScreen](9.jpg)
 
 The My Booking Screen helps users manage all reservations with different tabs:
 - History
@@ -145,7 +145,7 @@ Users can track booking status, charging type, schedule, and payment amount.
 
 🔹 Settings Screen
 
-![SplashScreen](2.jpg)
+![SplashScreen](14.jpg)
 
 The Settings Screen provides account management options:
 - Edit Profile
