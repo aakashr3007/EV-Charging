@@ -158,3 +158,14 @@ The Settings Screen provides account management options:
 - Logout
 
 It improves personalization and user control.
+
+#🛠️ Tools Used
+
+- Figma
+- Prototype Design
+- UI/UX Design Principles
+
+#👨‍💻 Designer
+- AAKASH R
+- UI/UX Designer
+- Passionate about creating modern and user-friendly mobile experiences.
